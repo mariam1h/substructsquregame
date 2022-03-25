@@ -1,0 +1,22 @@
+-This program is a subtract a square start with coins that the user wants  
+
+- The players must input number That has a square root  - The one who takes the last coins winner  
+GAME RULES: 
+- You ‘ll enter the number of coins you want to start with.
+ - The first player will entre number of coins has a square root  
+- Player2 entre number of coins one till the game ends
+ - The player takes Last coins winner  
+ 
+
+- check if user input a number that has a square root 
+ - Check if user entre number less than zero  
+- If user entre number bigger than coins  
+- Check if input digit or not 
+ - Get coins from player 
+ - Check if coins digit or not 
+ - If coins less than zero  
+- Function get coins from players - Check if the input valid or not  
+- Show the remaining coins for each player
+ - Change return between players  
+- Change return between players until coins equal zero
+ - The player who takes the last coin WIN
